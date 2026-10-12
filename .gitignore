@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+outputs/
+.venv/
+venv/
+.env
+.env.*
+*.key
+*.pem
+.DS_Store
